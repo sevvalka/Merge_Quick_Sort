@@ -1,4 +1,4 @@
-# Merge_Quick_Sort TR
+# Merge_Quick_Sort [TR]
 <p>Merge and Quick Sort for random 10,100 and 1000 element array </p>
 <p>For array with 10 elements ; there is sorted version and counter listed</p>
 <p>For the others(100 & 1000) there are only counter listed.</p>
